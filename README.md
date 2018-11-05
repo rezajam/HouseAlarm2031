@@ -1,1 +1,2 @@
-# HouseAlarm2031
+# HouseAlarm
+Sample code for lab05
